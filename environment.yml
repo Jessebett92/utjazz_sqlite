@@ -1,0 +1,11 @@
+name: myjazz
+channels: 
+  - conda-forge
+  - defaults
+dependencies: 
+  - python=3.11
+  - sqlalchemy
+  - requests
+  - tabulate
+  - sqlite
+  - python-dotenv
